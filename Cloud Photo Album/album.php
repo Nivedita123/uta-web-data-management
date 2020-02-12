@@ -13,8 +13,8 @@ require_once 'DropboxClient.php';
 
 /** @noinspection SpellCheckingInspection */
 $dropbox = new DropboxClient(array(
-    'app_key' => "ozl7fxn6n43fnmy",      // Dropbox API key here
-    'app_secret' => "2brojxvbggm5npl",   // Dropbox API secret here
+    'app_key' => "",      // Dropbox API key here
+    'app_secret' => "",   // Dropbox API secret here
     'app_full_access' => false,
 ));
 
